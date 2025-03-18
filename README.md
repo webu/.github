@@ -18,5 +18,5 @@ SCOP WEBU is a french [worker cooperative](https://en.wikipedia.org/wiki/Worker_
 - :blue_book: [LinkedIn](https://www.linkedin.com/company/webu/)
 - :space_invader: [Mastodon](https://mastodon.scop.coop/@WebuSCOP)
 
-[French version](https://github.com/coopTilleuls/.github/tree/main/profile/README.fr.md)
+[French version](https://github.com/webu/.github/tree/main/profile/README.fr.md)
 
