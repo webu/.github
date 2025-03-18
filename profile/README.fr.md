@@ -1,7 +1,7 @@
 # 👋️ Bienvenue sur la page GitHub de SCOP WEBU !
 <a href="https://webu.coop"><img align="right" src="https://www.webu.coop/static/sitewebu/img/zebu-tete.svg" height="250" alt="SCOP WEBU"></a>
 
-SCOP WEBU est une [SCOP](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_et_participative) française fondée en 2005 et spécialisée dans le développement d'applications sur mesure et l'intégration d'outils numériques libres. 
+WEBU est une [SCOP](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_coop%C3%A9rative_et_participative) française fondée en 2005 et spécialisée dans le développement d'applications sur mesure et l'intégration d'outils numériques libres. 
 
 **Vous voulez en savoir plus sur [SCOP WEBU](https://webu.coop) ?**
 
