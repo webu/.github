@@ -10,6 +10,8 @@ SCOP WEBU is a french [worker cooperative](https://en.wikipedia.org/wiki/Worker_
 * [🤖 DALEC](https://github.com/webu/dalec): Django Aggregator of a Lot of External Contents (DALEC) is a generic Django app to aggregate contents from various external sources.
 * [🔨 Django Neuralizer](https://github.com/webu/django-neuralyzer): Anonymize instance data according to your need (GDPR, used in not-so-safe environments... )
 * [🧀🐦 Wagtail Parler](https://github.com/webu/wagtail-parler): Brings "omelette du fromage" 🧀 from parler into wagtail 🐦 for your custom models (via modeladmin or wagtail snippets)
+* [Wagtail neuralyzer](https://github.com/webu/wagtail-neuralyzer): Anonymize your model to respect GDPR or development need
+
 
 **Get in touch**
 
